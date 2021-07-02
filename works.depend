@@ -1,0 +1,156 @@
+# depslib dependency file v1.0
+1624216056 source:c:\users\user\desktop\super\works\main.cpp
+	<iostream>
+	<fstream>
+	"productos.h"
+	"opciones.h"
+	"carrito_verduras.h"
+	"carrito_carnes.h"
+	"carrito_frutas.h"
+	"carrito_pescados.h"
+	"carrito_dulces.h"
+	"carrito_juguetes.h"
+	"caja_final.h"
+
+1624209599 c:\users\user\desktop\super\works\opciones.h
+
+1624209599 c:\users\user\desktop\super\works\carrito_verduras.h
+
+1624209599 c:\users\user\desktop\super\works\caja_final.h
+
+1624216056 source:c:\users\user\desktop\super\works\caja_final.c
+	<stdio.h>
+
+1624210168 source:c:\users\user\desktop\super\works\carrito_verduras.c
+	<stdio.h>
+	"productos.h"
+	"caja_final.h"
+
+1624216056 source:c:\users\user\desktop\super\works\opciones.c
+	<stdio.h>
+	"carrito_verduras.h"
+	"carrito_carnes.h"
+	"carrito_frutas.h"
+	"carrito_pescados.h"
+	"carrito_dulces.h"
+	"carrito_juguetes.h"
+
+1624215282 source:c:\users\user\desktop\super\works\productos.c
+	"opciones.h"
+	<stdio.h>
+
+1624209599 c:\users\user\desktop\super\works\productos.h
+
+1624210168 source:c:\users\user\desktop\super\works\carrito_carnes.c
+	<stdio.h>
+	"productos.h"
+	"caja_final.h"
+
+1624210658 source:c:\users\user\desktop\super\works\carrito_frutas.c
+	<stdio.h>
+	"productos.h"
+	"caja_final.h"
+
+1624211097 source:c:\users\user\desktop\super\works\carrito_pescados.c
+	<stdio.h>
+	"productos.h"
+	"caja_final.h"
+
+1624214428 source:c:\users\user\desktop\super\works\caja_dulces.c
+	<stdio.h>
+	"productos.h"
+	"caja_final.h"
+
+1624214829 source:c:\users\user\desktop\super\works\carrito_juguetes.c
+	<stdio.h>
+	"productos.h"
+	"caja_final.h"
+
+1624215064 source:c:\users\user\desktop\super\works\carrito_dulces.c
+	<stdio.h>
+	"productos.h"
+	"caja_final.h"
+
+1624210168 c:\users\user\desktop\super\works\carrito_carnes.h
+
+1624210658 c:\users\user\desktop\super\works\carrito_frutas.h
+
+1624211097 c:\users\user\desktop\super\works\carrito_pescados.h
+
+1624215064 c:\users\user\desktop\super\works\carrito_dulces.h
+
+1624214829 c:\users\user\desktop\super\works\carrito_juguetes.h
+
+1624291131 source:c:\users\user\desktop\super\works\caja_final.cpp
+	<iostream>
+	<stdio.h>
+	<fstream>
+
+1624745574 source:c:\users\user\desktop\super\works\carrito_carnes.cpp
+	<iostream>
+	<stdio.h>
+	"caja_final.h"
+	"operacion.h"
+	<fstream>
+
+1624745574 source:c:\users\user\desktop\super\works\carrito_dulces.cpp
+	<iostream>
+	<stdio.h>
+	"operacion.h"
+	"caja_final.h"
+	<fstream>
+
+1624745665 source:c:\users\user\desktop\super\works\carrito_frutas.cpp
+	<iostream>
+	<stdio.h>
+	"operacion.h"
+	"caja_final.h"
+	<fstream>
+
+1624745735 source:c:\users\user\desktop\super\works\carrito_juguetes.cpp
+	<iostream>
+	<stdio.h>
+	"operacion.h"
+	"caja_final.h"
+	<fstream>
+
+1624745778 source:c:\users\user\desktop\super\works\carrito_pescados.cpp
+	<iostream>
+	<stdio.h>
+	"operacion.h"
+	"caja_final.h"
+	<fstream>
+
+1624745889 source:c:\users\user\desktop\super\works\carrito_verduras.cpp
+	<iostream>
+	<stdio.h>
+	"operacion.h"
+	"caja_final.h"
+	<fstream>
+
+1624291131 source:c:\users\user\desktop\super\works\opciones.cpp
+	<iostream>
+	<stdio.h>
+	"carrito_verduras.h"
+	"carrito_carnes.h"
+	"carrito_frutas.h"
+	"carrito_pescados.h"
+	"carrito_dulces.h"
+	"carrito_juguetes.h"
+	<fstream>
+
+1624291131 source:c:\users\user\desktop\super\works\productos.cpp
+	<iostream>
+	"opciones.h"
+	<stdio.h>
+	<fstream>
+
+1624745389 c:\users\user\desktop\super\works\operacion.h
+
+1624745451 source:c:\users\user\desktop\super\works\operacion.cpp
+	<iostream>
+	<stdio.h>
+	"productos.h"
+	"caja_final.h"
+	<fstream>
+
